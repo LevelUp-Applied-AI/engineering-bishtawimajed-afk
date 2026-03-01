@@ -27,4 +27,7 @@ python -m venv .venv
 source .venv/bin/activate   # Mac/Linux
 # or: source .venv/Scripts/activate  (Windows Git Bash)
 pip install -r requirements-prework.txt
+## How to Run
+1. Activate the environment: `source .venv/Scripts/activate`
+2. Run the main script: `python main.py`
 ```
